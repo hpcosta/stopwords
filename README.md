@@ -1,4 +1,4 @@
-Stopwords List for English and Spanish
+Lists of Stopwords for English and Spanish
 =========
 
 * EN-stopwords.txt
