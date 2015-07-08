@@ -1,4 +1,4 @@
-# Lists of Stopwords for English and Spanish
+# Lists of Stopwords for English, Spanish, German and Italian
 
 * EN-stopwords.txt
   * List of stopwords for English
